@@ -1,3 +1,3 @@
 # my-first-project
 
-git status
+this is my first project
